@@ -2,7 +2,7 @@ The Lucky-7 website is: https://www.lucky7satellite.org/. Here we could navigate
 
 The satellite has a coordinated frequency at IARU: https://iaru.amsat-uk.org/formal_detail.php?serialnum=452
 
-The TLE as found in Celestrak website on 10 Sep 2024 is:
+The TLE, as found in Celestrak website (https://celestrak.org/NORAD/elements/), within Active Satellites section, on 10 Sep 2024, was:
 
 LUCKY-7                 
 1 44406U 19038W   24251.94006537  .00130169  00000+0  18982-2 0  9996
