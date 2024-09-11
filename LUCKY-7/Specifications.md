@@ -5,9 +5,10 @@ The satellite has a coordinated frequency at IARU: https://iaru.amsat-uk.org/for
 
 The TLE, as found in Celestrak website (https://celestrak.org/NORAD/elements/), within Active Satellites section, on 10 Sep 2024, was:
 
-LUCKY-7                 
+```LUCKY-7                 
 1 44406U 19038W   24251.94006537  .00130169  00000+0  18982-2 0  9996
-
 2 44406  97.7026 255.6192 0014459 140.5664 219.6644 15.55121794287177
+
+
 
 
