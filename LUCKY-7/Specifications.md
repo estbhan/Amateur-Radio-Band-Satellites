@@ -1,3 +1,4 @@
+#Notes
 The Lucky-7 website is: https://www.lucky7satellite.org/. Here we could navigate to the following document with the specification of the signal and data transmitted by the satellite: https://www.lucky7satellite.org/download/Lucky-7_-_Amateur_Radio_Information.pdf
 
 The satellite has a coordinated frequency at IARU: https://iaru.amsat-uk.org/formal_detail.php?serialnum=452
