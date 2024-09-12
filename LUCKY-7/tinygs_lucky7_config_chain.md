@@ -1,5 +1,8 @@
 # Configuration Chain for TinyGS Ground Station 
-(https://tinygs.com/)
+
+The TinyGS web site is: https://tinygs.com/
+
+The following configuration chain has been tested in a Custom SX1268 board (using a module SR-01S).
 
 {"mode":"FSK","sat":"LUCKY-7","NORAD":44406,"freq":437.525,"bw":14.6,"pl":16,"pwr":5,"br":4.8,"fd":4.8,"fsw":[170,45,212],"ook":0,"len":37}
 
